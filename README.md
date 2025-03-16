@@ -1,5 +1,8 @@
-
 # **Apache JMeter™**
+
+<div align="center">
+  <img src="./images/logo.svg">
+</div>
 
 **Apache JMeter™** é uma ferramenta de código aberto, desenvolvida em Java, que permite realizar testes de carga, performance e comportamento funcional em diversos tipos de aplicações. Embora tenha sido originalmente criado para testar aplicativos da Web, ele evoluiu para suportar uma vasta gama de testes, incluindo aplicações móveis, serviços web (REST, SOAP), banco de dados e muito mais.
 
