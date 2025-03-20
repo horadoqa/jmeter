@@ -60,12 +60,6 @@
 - **Multiplataforma:** O JMeter é compatível com qualquer sistema operacional que suporte **Java** (Windows, Linux, macOS).
 - **Relatórios Avançados:** A ferramenta gera **relatórios detalhados** com gráficos e métricas, facilitando a análise do desempenho da aplicação sob diferentes cenários de carga.
 
----
-
-Para mais informações, consulte a **documentação oficial**: [Apache JMeter™](https://jmeter.apache.org/).
-
----
-
 ### **Comunidade e Suporte:**
 
 - **Fórum e Discussões:** A comunidade do Apache JMeter é ativa e oferece suporte por meio de **fóruns e grupos de discussão**. Lá, usuários compartilham dicas, resolvem problemas e trocam scripts de teste.
@@ -74,6 +68,8 @@ Para mais informações, consulte a **documentação oficial**: [Apache JMeter�
 ### **Conclusão:**
 
 O **Apache JMeter™** é uma ferramenta robusta e poderosa para **testes de carga** e **desempenho**, amplamente utilizada por desenvolvedores e engenheiros de testes em todo o mundo. Com suas funcionalidades avançadas, como execução distribuída e geração de relatórios detalhados, o JMeter é ideal para avaliar a performance de sistemas sob grande carga e identificar gargalos que possam comprometer a experiência do usuário final.
+
+---
 
 ### **Próximos Passos:**
 
