@@ -73,8 +73,10 @@ O **Apache JMeter™** é uma ferramenta robusta e poderosa para **testes de car
 
 ### **Próximos Passos:**
 
-- **[Instalação do JMeter](./docs/install.md):**  
+- **Instalação do JMeter**  
   Guia passo a passo para instalar o **Apache JMeter** em diferentes sistemas operacionais (Windows, Linux, macOS).
+  - **Windows:**
+  - **Linux:**
 
 - **[SERVEREST - API para Testes](https://serverest.dev/):**  
   API pública para testar carga e funcionalidades em um serviço RESTful. Ideal para validar a integração do JMeter com APIs.

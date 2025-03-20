@@ -9,7 +9,11 @@ Para instalar o **Apache JMeter**, siga as etapas abaixo:
 ### 2. **Extrair o arquivo**
    - Após o download, extraia o arquivo compactado em um diretório de sua escolha.
      - No Windows, clique com o botão direito no arquivo `.zip` e selecione "Extrair tudo...".
-     - No Linux, você pode usar o comando `tar -xvzf apache-jmeter-X.X.tgz` (substitua `X.X` pela versão específica).
+     - No Linux, você pode usar o comando:
+     ```bash
+     tar -xvzf apache-jmeter-X.X.tgz
+     ```
+     (substitua `X.X` pela versão específica).
 
 ### 3. **Instalar o Java**
    O JMeter é uma aplicação Java, então você precisa ter o Java instalado no seu computador.
