@@ -1,7 +1,3 @@
-Aqui está a documentação organizada de forma clara e concisa:
-
----
-
 # Criar Teste no Apache JMeter
 
 Para criar o seu primeiro teste no **Apache JMeter**, siga estas etapas:
