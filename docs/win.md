@@ -17,6 +17,11 @@ Para garantir que o JMeter funcione corretamente, você precisa configurar a var
 1. Abra o **Painel de Controle** e clique em **Sistema e Segurança** > **Sistema**.
 2. No menu à esquerda, clique em **Configurações Avançadas do Sistema**.
 3. Clique em **Variáveis de Ambiente** na parte inferior da janela.
+
+<div align="center">
+   <img src="../images/variaveis.png" alt="JMeter">
+</div>
+
 4. Em **Variáveis do Sistema**, clique em **Nova** e adicione:
    - **Nome da variável**: `JMETER_HOME`
    - **Valor da variável**: O caminho onde o JMeter foi descompactado (exemplo: `C:\Program Files\jmeter`).
@@ -66,6 +71,10 @@ O JMeter é uma aplicação Java, então você precisa ter o Java JDK instalado 
    jmeter
    ```
 3. A interface gráfica do JMeter será carregada.
+
+<div align="center">
+   <img src="../images/jmeter.png" alt="JMeter">
+</div>
 
 ---
 
