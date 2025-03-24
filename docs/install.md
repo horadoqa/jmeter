@@ -59,5 +59,3 @@ Para instalar o **Apache JMeter**, siga as etapas abaixo:
      ```
 
 Agora, o Apache JMeter deve abrir e você pode começar a configurar e rodar seus testes de performance.
-
-Se você tiver algum problema ou dúvida durante o processo, me avise e eu posso te ajudar!

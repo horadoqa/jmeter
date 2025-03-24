@@ -91,3 +91,9 @@ O **Apache JMeter™** é uma ferramenta robusta e poderosa para **testes de car
 ### **Links Úteis:**
 - **Documentação oficial:** [Apache JMeter™ Documentation](https://jmeter.apache.org/)
 - **Fórum de Discussão:** [JMeter User Mailing List](https://jmeter.apache.org/mail2.html)
+
+---
+
+### **Instalar o gerenciador de Plugins:**
+O JMeter precisa do [Gerenciador de Plugins](./docs/plugins.md)
+
