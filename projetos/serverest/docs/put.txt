@@ -1,0 +1,39 @@
+PUT
+
+curl -X 'PUT' \
+  'https://serverest.dev/usuarios/DZMfi7iJpqjY9EAT' \
+  -H 'accept: application/json' \
+  -H 'Content-Type: application/json' \
+  -d '{
+  "nome": "Fulano da Silva",
+  "email": "beltrano@qa.com.br",
+  "password": "teste",
+  "administrador": "true"
+}'
+
+jmeter
+
+Test Plan
+Put Cadastro
+Alterar Cadastro de um usuário
+
+Thread Group
+
+HTTP Request
+
+Body data
+{
+  "nome": "Hora do QA",
+  "email": "teste-qa@serverest.com",
+  "password": "1q2w3e4r",
+  "administrador": "true"
+}
+
+Config Element
+HTTP Header Manager - Content-Type - application/json
+
+View Results Tree
+Summary Report
+Aggregate Report
+
+

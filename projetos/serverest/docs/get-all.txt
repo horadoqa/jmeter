@@ -1,0 +1,16 @@
+GET
+
+curl -X 'GET' 'https://serverest.dev/usuarios' -H 'accept: application/json'
+
+jmeter
+
+get usuários
+Listar usuários cadastrados
+
+Thread Group
+HTTP Request
+View Results Tree
+Summary Report
+Aggregate Report
+
+

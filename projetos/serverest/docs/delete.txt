@@ -1,0 +1,19 @@
+DELETE
+
+curl -X 'DELETE' 'https://serverest.dev/usuarios/DZMfi7iJpqjY9EAT' -H 'accept: application/json'
+
+jmeter
+
+Test Plan
+Delete Cadastro
+Deletar um usuário
+
+Thread Group
+
+HTTP Request
+
+View Results Tree
+Summary Report
+Aggregate Report
+
+

@@ -1,0 +1,39 @@
+LOGIN
+
+A duração do token retornado em authorization é de 600 segundos (10 minutos). Caso esteja expirado irá receber status code 401 (Unauthorized).
+
+curl -X 'POST' \
+  'https://serverest.dev/login' \
+  -H 'accept: application/json' \
+  -H 'Content-Type: application/json' \
+  -d '{
+  "email": "fulano@qa.com",
+  "password": "teste"
+}'
+
+
+
+jmeter
+
+Login
+Realizar login
+
+Thread Group
+
+HTTP Request
+
+Body data
+{
+  "email": "teste@serverest.com",
+  "password": "1q2w3e4r"
+}
+
+Config Element
+HTTP Header Manager - Content-Type - application/json
+
+View Results Tree
+Summary Report
+Aggregate Report
+
+
+
